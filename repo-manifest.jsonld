@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/dns/commit/54349d8c472352d0f738603743dc1bccc8e6027b",
       "git:hexsha": "54349d8c472352d0f738603743dc1bccc8e6027b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
